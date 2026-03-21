@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="kafka event" id="IWZbfblT6X-gWK0lWD4W">
-    <mxGraphModel dx="1468" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1559" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,6 +183,17 @@
         </mxCell>
         <mxCell id="Qy7Sw2YkhW-IHm8bQVEx-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="topic send" vertex="1">
           <mxGeometry height="30" width="60" x="1513.45" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="Qy7Sw2YkhW-IHm8bQVEx-61" edge="1" parent="1" source="Qy7Sw2YkhW-IHm8bQVEx-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="Qy7Sw2YkhW-IHm8bQVEx-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1790" y="1450" />
+              <mxPoint x="1701" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qy7Sw2YkhW-IHm8bQVEx-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" value="🧠 “xử lý cái gì với message” → là job của&amp;nbsp;&lt;strong data-start=&quot;1908&quot; data-end=&quot;1920&quot;&gt;consumer&lt;/strong&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="1710" y="1402.36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
